@@ -6,6 +6,7 @@ const Header = () => {
     <div className='flex items-center justify-between'>
       <h1 className='text-3xl font-bold text-yellow-400'>BLOGER</h1>
       <button className='flex items-center gap-2 font-medium py-1 px-4 sm:py-3 sm:px-6 border border-yellow-500 hover:bg-yellow-400 hover:text-white shadow-[-7px_7px_0px_#ffde21]'>GET STARTED</button>
+      
     </div>
     <div className="text-center my-10">
       <h1 className='text-3xl font-bold'>Latest Blog</h1>
